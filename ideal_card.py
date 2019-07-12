@@ -16,7 +16,7 @@ ranks=['8','9','T','J','Q','K','A']
 
 
 def init_hands():
-    """将28张牌混合好，并发给两个玩家"""
+    """将28张牌混合好，并发给个玩家"""
     hands=[]
     
     for rank in ranks:
